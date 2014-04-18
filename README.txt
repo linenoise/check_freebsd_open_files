@@ -112,7 +112,7 @@ SEE ALSO
 AUTHOR
     This script is written and maintained by Dann Stayskal
     <dann@stayskal.com> and is available on his website, at
-    <http://fragmentedzen.com/software/check_freebsd/>.
+    <http://dann.stayskal.com/software/check_freebsd/>.
 
 LICENSE
     Copyright (C) 2009 by Dann Stayskal.
